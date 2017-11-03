@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.exe.config
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.exe
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.pdb
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Release\ThreeOrMoreDiceGame.exe
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Release\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.exe.config
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\obj\Release\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\obj\Release\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\bin\Release\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\obj\Release\ThreeOrMoreDiceGame.csprojResolveAssemblyReference.cache

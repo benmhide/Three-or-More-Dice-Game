@@ -1,0 +1,24 @@
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe.config
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.csprojResolveAssemblyReference.cache
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.pdb
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.exe
+c:\users\computing\documents\visual studio 2015\Projects\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe.config
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\User\Downloads\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe.config
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 2\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe.config
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 2\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 2\ThreeOrMoreDiceGame\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.pdb
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\bin\Debug\ThreeOrMoreDiceGame.exe.config
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.exe
+C:\Users\benmh\Desktop\Careers\Three or More Dice Game\ThreeOrMoreDiceGame\obj\Debug\ThreeOrMoreDiceGame.pdb
