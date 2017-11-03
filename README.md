@@ -10,7 +10,8 @@ Scoring:
 * 4-of-a-kind: 6 points
 * 5-of-a-kind: 12 points
 The player who reaches a fixed value of points (say 50) is the winner.
-The appliaction had tio include:
+
+The appliaction had to include:
 * A ‘Game’ class
 * A ‘Player’ class
 * A ‘Die’ class
